@@ -36,9 +36,9 @@ def theLogic(foo, bar):
         theAND.append(AND(f, q))
         theXOR.append(XOR(f, q))
 
-    print(''.join(theOR), " OR")
-    print(''.join(theAND), " AND")
-    print(''.join(theXOR), " XOR")
+    print(''.join(theOR), " A compliment")
+    print(''.join(theAND), " A union B")
+    print(''.join(theXOR), " A intersection B")
 
 while True:
     print("-----------------")
