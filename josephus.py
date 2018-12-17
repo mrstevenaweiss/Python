@@ -13,8 +13,14 @@ while True:
         break
     else:
         if p % 2 == 0:
+            n = 2^n + l
+            l = p - largest power of 2 < p
+            (2 * l) + 1
             even()
         elif p % 2 == 1:
             odd()
         print(p)
         print("\n")
+
+
+        need to finish this script...
