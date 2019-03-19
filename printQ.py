@@ -23,3 +23,21 @@ class Queue:
 
     def is_empty(self):
         return self.items == []
+
+
+class Job:
+    # attributes
+    def __init__(self):
+        pass
+
+    # methods
+
+class Printer:
+    # attributes
+    def __init__(self):
+        pass
+
+class PrinterQueue:
+    # attributes
+    def __init__(self):
+        pass
