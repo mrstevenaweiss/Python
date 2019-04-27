@@ -24,3 +24,5 @@ rewind(current_file)
 print "Let's print the first line"
 
 print_a_line(1, current_file)
+
+print_a_line(2, current_file)
